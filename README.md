@@ -5,7 +5,7 @@ Work and study at the same time
 -------------------------------
 
 * 🌍  I'm based in Bottrop/Germany
-* 🧠  I'm learning I'm learning Intellij Idea (Java BackEnd)
+* 🧠  I'm learning Intellij Idea (Java BackEnd)
 
 ### Skills
 
