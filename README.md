@@ -23,7 +23,7 @@ Work and study at the same time
   <a href="https://www.instagram.com/your_username" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </a>
-  <a href="[www.linkedin.com/in/oleksandr-ivanyo-3a5471127](https://www.linkedin.com/in/oleksandr-ivanyo-3a5471127/)" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/oleksandr-ivanyo-3a5471127/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
 </p>
